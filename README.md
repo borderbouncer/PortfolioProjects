@@ -1,0 +1,1 @@
+Welcome to my portfolio! Here, you'll find a collection of data analytics projects showcasing my expertise in SQL, Power BI, Excel, and Business Intelligence. These projects highlight my ability to analyze data, generate insights, and create actionable recommendations for business success.
